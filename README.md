@@ -104,6 +104,5 @@ Host GitHub Pages using settings
 ![](img/task-2_1.jpg)
 
 
-## Task -3
 
 
