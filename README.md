@@ -95,10 +95,15 @@ Command is used to view expanded details on Git objects.
 
 ## Task -2
 
-Here I add collaborator
+Here I am adding collaborator
 
 ![](img/task-2.jpg)
 
 Host GitHub Pages using settings 
 
 ![](img/task-2_1.jpg)
+
+
+## Task -3
+
+
