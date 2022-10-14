@@ -91,3 +91,14 @@ This command is used to merge one branch to another branch
 Command is used to view expanded details on Git objects.
 
 ![](img/15_git_show.jpg)
+
+
+## Task -2
+
+Here I add collaborator
+
+![](img/task-2.jpg)
+
+Host GitHub Pages using settings 
+
+![](img/task-2_1.jpg)
